@@ -1,0 +1,6 @@
+{
+  "name": "Hex-Uploader",
+  "description": "Layanan pengunggah foto cepat dan modern. Pin gambar, tunggu prosesnya, dan dapatkan URL-nya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
